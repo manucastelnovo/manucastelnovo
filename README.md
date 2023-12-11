@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu castelnovo</h1>
-<h3 align="center">A passionate frontend developer from Paraguay</h3>
+<h3 align="center">A passionate Full Stack developer from Paraguay</h3>
 
 - 🌱 I’m currently learning **next.js**
 
